@@ -7,12 +7,12 @@
 
 
 <p style="text-align: center">
-  <img style="width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmazRec&layout=compact&theme=tokyonight"  alt=""/>
+  <img style="width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phpsher&layout=compact&theme=tokyonight"  alt=""/>
 </p>
 
 
 <p style="text-align: center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=AlmazRec&show_icons=true&theme=tokyonight" alt="">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=phpsher&show_icons=true&theme=tokyonight" alt="">
 </p>
 
 # Языки:
