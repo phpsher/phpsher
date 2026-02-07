@@ -1,10 +1,6 @@
 # Backend Developer
----
-
-## Technical Overview
-
 <div align="center">
-
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phpsher&layout=compact&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api?username=phpsher&show_icons=true&theme=tokyonight)
 
