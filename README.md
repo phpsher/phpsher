@@ -1,9 +1,4 @@
 # Backend Developer
-
-**Non commercial experience:**
-- **PHP:** 1 year 8 months
-- **Laravel:** 1 year 5 months
-
 ---
 
 ## Technical Overview
